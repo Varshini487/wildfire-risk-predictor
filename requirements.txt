@@ -1,0 +1,10 @@
+streamlit
+xgboost
+geodatasets
+geodatasets
+rasterio
+folium
+streamlit-folium
+matplotlib
+pandas
+numpy
